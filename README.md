@@ -1,2 +1,2 @@
-# ja-basics-advanced
+# js-basics-advanced
 My JS learning repo
