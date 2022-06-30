@@ -25,7 +25,7 @@
 (function myIIFE(num = 0) {
 	num++;
 	console.log(num);
-	return num !== 5 ? myIIFE(num) : console.log('finisched');
+	return num !== 5 ? myIIFE(num) : console.log('finished');
 })();
 
 /**
